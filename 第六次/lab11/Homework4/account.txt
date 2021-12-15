@@ -1,0 +1,5 @@
+#LastName	FirstName	SavingsAccount	CheckingAccount	savinginterest	overdraftProtection
+TU		BJ		500.00		2.0		722		400.00
+ Bryant		Owen 		300		1.2		500		0.0
+ Soley 		Tim 		1500.00    	2.0		600		0.0
+ Soley		Maria 		150.00 		1.0		900		50
